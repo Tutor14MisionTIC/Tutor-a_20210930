@@ -14,6 +14,4 @@ print("Compañero")
 ## Editando desde GitHub
 # Holaaa
 
-
 # Creada rama del backend
-# Creada rama front end
